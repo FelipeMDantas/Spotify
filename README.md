@@ -12,6 +12,10 @@
 
 > This app makes use of a pair of APIs to render data about the current music scene - geo.ipify for geolocation information and rapidApi for music data.
 
+### Take a look at the page
+
+<img src = images/page_gif.gif>
+
 ## Tech
 
 A couple of technologies were employed in this project. Among them:
